@@ -10,7 +10,7 @@ class Print{
         System.out.println("float :"+a);
     }
 }
-public class printov{
+public class overload{
     public static void main(String args[]){
   Print x = new Print();
  Print y = new Print();
